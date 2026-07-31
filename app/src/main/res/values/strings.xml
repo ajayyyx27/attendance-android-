@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attendance Tracker</string>
+    <string name="welcome_text">Welcome! Tap the button below.</string>
+    <string name="log_button">Log Today</string>
+</resources>
